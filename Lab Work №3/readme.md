@@ -1,13 +1,12 @@
 ## Диаграмма контейнеров
-![alt text](image-1.png)
+![alt text](image-4.png)
 
 ## Диаграмма компонентов
 
-**Компоненты «Сервиса общего» (Backend)**
-![alt text](image-2.png)
+**Компоненты «Bot application»**
+![alt text](image-5.png)
 
-**Компоненты «ИИ-модели»**
-![alt text](image-3.png)
+**Компоненты «Общего Сервиса»**
 
 ## Диаграмма последовательности
 ![alt text](image.png)

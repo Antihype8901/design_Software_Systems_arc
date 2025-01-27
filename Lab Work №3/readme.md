@@ -13,7 +13,7 @@
 ![alt text](image.png)
 
 ## Модель БД
-![alt text](image-1bd.png)
+![alt text](image-2.png)
 
 ## Применение основных принципов разработки
 1. **KISS (Keep It Simple, Stupid)**  

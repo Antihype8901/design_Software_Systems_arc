@@ -7,6 +7,7 @@
 ![alt text](image-5.png)
 
 **Компоненты «Общего Сервиса»**
+![alt text](image-6.png)
 
 ## Диаграмма последовательности
 ![alt text](image.png)

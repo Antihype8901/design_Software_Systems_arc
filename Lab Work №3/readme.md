@@ -10,7 +10,7 @@
 ![alt text](image-6.png)
 
 ## Диаграмма последовательности
-![alt text](image.png)
+![alt text](image-3.png)
 
 ## Модель БД
 ![alt text](image-2.png)
